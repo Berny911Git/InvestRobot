@@ -1,5 +1,5 @@
 # General-code-trading-bot
-# projet cible en python3.8
-# incluant Database de simulation locale et Backtesting
+# Projet cible en python3.8
+# incluant une Database de simulation locale et en Backtesting
 # avec mise au point du passage d'ordre spot sur Binance (postman?)
 # et trading des Futures sur DyDx
